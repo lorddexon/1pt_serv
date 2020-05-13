@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "polybius",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "polybius"
+  ],
+  "author": "lorddexon@gmail.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
